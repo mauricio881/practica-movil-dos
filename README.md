@@ -1,9 +1,9 @@
 # Mi primer repositorio
 
-Hola, soy [tu nombre].
+Hola, soy [Mauricio Aucapiña].
 Estoy aprendiendo Git y GitHub.
 
-## Objetivo
+## Objetivos
 Aprender a controlar versiones.
 ## Lo que aprendi
 aprendi a usar comandos en git hub
